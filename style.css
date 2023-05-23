@@ -227,7 +227,7 @@ body {
 }
 
 .hero-img {
-    background-image: url(./images/IMG_20230508_231546_656.jpg);
+    background-image: url(images/IMG_20230508_231546_656.jpg);
     background-position: 50%;
     background-size: cover;
     height: 22rem;
